@@ -1,0 +1,1 @@
+(function(e){var t={id:"0c115107c1a5a12eb7aa78e9b694bf66",filename:"app.js",exports:{}};if(!e.____MODULES){e.____MODULES={}}var n=function(e,t,n){console.log("hello")}(t.exports,t,e);e.____MODULES["0c115107c1a5a12eb7aa78e9b694bf66"]=t.exports})(this)

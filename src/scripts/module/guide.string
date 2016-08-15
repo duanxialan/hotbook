@@ -1,0 +1,17 @@
+<div class="swiper-container" id="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+        	<img src="/footbook/img/slide1.png" alt="">
+        </div>
+        <div class="swiper-slide">
+        	<img src="/footbook/img/slide2.png" alt="">
+        </div>
+        <div class="swiper-slide">
+        	<img src="/footbook/img/slide3.png" alt="">
+        </div>
+         <div class="swiper-slide">
+        	<img src="/footbook/img/slide4.png" alt="">
+        	<p action-type="go.home"></p>
+        </div>
+    </div>
+</div>
