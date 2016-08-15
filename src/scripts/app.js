@@ -15,5 +15,5 @@ require("./views/quit");
 require("./views/guide");
 
 SPA.config({
-	indexView:"index"
+	indexView:"guide"
 })
